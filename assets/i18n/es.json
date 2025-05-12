@@ -35,7 +35,7 @@
     },
     "logout_text": "Cerrar sesión",
     "tabs": {
-        "home": "Inicio",
+        "home": "inicio",
         "dates": "Matches",
         "profile": "Perfil",
         "chats": "Mensajes",
